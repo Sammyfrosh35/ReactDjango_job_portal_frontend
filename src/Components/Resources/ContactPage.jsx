@@ -37,13 +37,13 @@ const ContactUs = () => {
               <div className="icon-circle">
                 <FaEnvelope className="icon" />
               </div>
-              <span>Email: support@example.com</span>
+              <span>Email: www.iwanwok@gmail.com</span>
             </div>
             <div className="info-item">
               <div className="icon-circle">
                 <FaPhone className="icon" />
               </div>
-              <span>Phone: +1 (123) 456-7890</span>
+              <span>Phone: +(234) 8120254201</span>
             </div>
 
             <div className="info-item">
